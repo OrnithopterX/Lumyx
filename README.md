@@ -10,4 +10,6 @@ The generated point-clouds can be opened in Blender for viewing. This example us
 
 The original Onshape file can be found [here](https://cad.onshape.com/documents/dd8d982ba8502859204ee528/w/a78d61cbd94c6390059afb15/e/765d05a98b8357067b07b750). 
 
+The Arduino code can be found under the "releases" tab. 
+
 <More to be added later; I don't have the time now!> 
