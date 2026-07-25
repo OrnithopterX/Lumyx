@@ -12,4 +12,4 @@ The original Onshape file can be found [here](https://cad.onshape.com/documents/
 
 The Arduino code can be found under the "releases" tab. 
 
-<More to be added later; I don't have the time now!> 
+The wiring schematics are available now! 
