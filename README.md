@@ -21,3 +21,9 @@ The wiring schematic pdf can be found in the main branch.
 # Using LUMYX
 
 The scans are saved as .OBJ point clouds, which can be opened in [Blender](https://www.blender.org/) for analysis. 
+
+# What's next for the project? 
+
+I am going continue working on LUMYX. There is so much more for the project. 
+
+For those interested, I am now building a high-speed scanner for robotics and drones. The system is working, but I have a LOT of things to finish before I can feel good about publishing it. Please stay tuned! 
